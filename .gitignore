@@ -1,0 +1,7 @@
+/cache
+/nbproject
+/vendor
+/node_modules
+/.idea
+/cgi-bin
+*.zip
